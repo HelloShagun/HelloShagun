@@ -2,7 +2,7 @@
 - 👀 I’m interested in EarthObservation
 - 🌱 I’m currently learning Github + Deeplearning
 - 💞️ I’m looking to collaborate on projects ranging from land subsidence to flood detection
-- 📫 How to reach me https://www.gfz-potsdam.de/en/staff/shagun/ 
+- 📫 How to reach me https://cambridge-earth-observation.org/cambridge-university-researchers/shagun-garg/
 - Email : sg2009@gmail.com
 
 <!---
